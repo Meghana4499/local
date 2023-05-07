@@ -23,7 +23,7 @@
     "react-leaflet-search": "^1.0.3",
     "react-native-leaderboard": "^1.0.6",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.3.0",
+    "react-scripts": "5.0.1",
     "reactstrap": "^8.4.1"
   },
   "scripts": {
